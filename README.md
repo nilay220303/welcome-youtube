@@ -28,4 +28,8 @@ A YouTube clone project featuring modern design and functionality.
 
 ## License
 
-MIT 
+MIT
+
+## Note
+
+This repository has been created for testing out cursor along with MCP servers. 
